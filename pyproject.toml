@@ -1,0 +1,5 @@
+[project]
+name = "genpark-agent-executive-chart-visual-compiler-skill"
+version = "1.0.0"
+description = "Compiles raw metrics and financial datasets into boardroom-ready SVG/JSON chart configurations optimized for presentation slides"
+requires-python = ">=3.9"
