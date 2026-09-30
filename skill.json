@@ -1,0 +1,19 @@
+{
+  "name": "genpark-agent-executive-chart-visual-compiler-skill",
+  "version": "1.0.0",
+  "description": "Compiles raw metrics and financial datasets into boardroom-ready SVG/JSON chart configurations optimized for presentation slides",
+  "category": "Service",
+  "topics": [
+    "mcp",
+    "chart-compiler",
+    "waterfall-chart",
+    "data-visualization",
+    "executive-charts",
+    "autonomous-agents",
+    "svg-charts",
+    "python-standard-library",
+    "agent-skills",
+    "financial-metrics",
+    "zero-dependency"
+  ]
+}
